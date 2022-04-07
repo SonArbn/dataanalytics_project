@@ -18,11 +18,11 @@
     },
     {
       "path": "index.html",
-      "title": "My Website",
+      "title": "My Website is the best Website",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-18T15:23:38+01:00"
+      "contents": "\r\nHi everyone you are welcome\r\nto join!\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-04-07T16:37:14+02:00"
     }
   ],
   "collections": []
